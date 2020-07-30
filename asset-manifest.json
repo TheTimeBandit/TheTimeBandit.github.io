@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheTimeBandit/TheTimeBandit.github.io/static/css/main.c4e1f26c.chunk.css",
+    "main.js": "/TheTimeBandit/TheTimeBandit.github.io/static/js/main.2e004682.chunk.js",
+    "main.js.map": "/TheTimeBandit/TheTimeBandit.github.io/static/js/main.2e004682.chunk.js.map",
+    "runtime-main.js": "/TheTimeBandit/TheTimeBandit.github.io/static/js/runtime-main.4ea19c29.js",
+    "runtime-main.js.map": "/TheTimeBandit/TheTimeBandit.github.io/static/js/runtime-main.4ea19c29.js.map",
+    "static/js/2.37ce93d8.chunk.js": "/TheTimeBandit/TheTimeBandit.github.io/static/js/2.37ce93d8.chunk.js",
+    "static/js/2.37ce93d8.chunk.js.map": "/TheTimeBandit/TheTimeBandit.github.io/static/js/2.37ce93d8.chunk.js.map",
+    "index.html": "/TheTimeBandit/TheTimeBandit.github.io/index.html",
+    "precache-manifest.b7b580f8054915ffd7e0b2f466608cb1.js": "/TheTimeBandit/TheTimeBandit.github.io/precache-manifest.b7b580f8054915ffd7e0b2f466608cb1.js",
+    "service-worker.js": "/TheTimeBandit/TheTimeBandit.github.io/service-worker.js",
+    "static/css/main.c4e1f26c.chunk.css.map": "/TheTimeBandit/TheTimeBandit.github.io/static/css/main.c4e1f26c.chunk.css.map",
+    "static/js/2.37ce93d8.chunk.js.LICENSE.txt": "/TheTimeBandit/TheTimeBandit.github.io/static/js/2.37ce93d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea19c29.js",
+    "static/js/2.37ce93d8.chunk.js",
+    "static/css/main.c4e1f26c.chunk.css",
+    "static/js/main.2e004682.chunk.js"
+  ]
+}
